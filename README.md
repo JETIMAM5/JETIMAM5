@@ -3,7 +3,7 @@
 <h3 align="center">"Passionate Developer and Creative Thinker, Crafting Digital Solutions with Innovation and Precision"</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jetimam5&label=Profile%20views&color=0e75b6&style=flat" alt="jetimam5" /> </p>
+
 
 
 
