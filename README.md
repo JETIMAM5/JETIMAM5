@@ -9,7 +9,7 @@
 
 - 🌱C# , HTML , CSS , ASP.NET CORE and Frameworks , Libraries of C# **ASP.NET Framework**
 
-- 💬Ask me about **C,C#, JAVA ,MSSQL**
+- 💬Ask me about **C , C#, JAVA ,MSSQL**
 
 - 📫How to reach me ? **berat_yetis5859@outlook.com**
 
