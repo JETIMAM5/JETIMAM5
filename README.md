@@ -7,9 +7,9 @@
 
 
 
-- 🌱C# , HTML , CSS , ASP.NET CORE and Frameworks , Libraries of C# **ASP.NET Framework**
+- 🌱C# , HTML , CSS , ASP.NET CORE and Frameworks , Libraries of C# **ASP.NET Framework , ROS **
 
-- 💬Ask me about **C ,C++, C#, Python ,MSSQL**
+- 💬Ask me about **C ,C++, C#, Python ,MSSQL, ROS**
 
 - 📫How to reach me ? **berat_yetis5859@outlook.com**
 
